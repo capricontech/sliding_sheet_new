@@ -136,7 +136,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
-  sliding_sheet:
+  sliding_sheet_new:
     dependency: "direct main"
     description:
       path: ".."

@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
-import 'package:sliding_sheet/sliding_sheet.dart';
+import 'package:sliding_sheet_new/sliding_sheet_new.dart';
 
 // ignore_for_file: public_member_api_docs
 

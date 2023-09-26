@@ -1,3 +1,5 @@
+## 0.5.3
+* **Fixed** Support for new dart and flutter versions
 ## 0.5.2
 * **Added** `customBuilder` for infinite lists
 
