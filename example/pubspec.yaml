@@ -1,0 +1,26 @@
+name: example
+description: An example implementation for a SlidingSheet.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  charts_flutter_new: ^0.12.0
+  material_design_icons_flutter: ^7.0.7296
+  
+  sliding_sheet:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/maps_screenshot.png
